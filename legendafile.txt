@@ -1,0 +1,7 @@
+-0  Landuse
+ 1  Bebouwing
+ 6  Landbouw
+ 3  Natuur
+ 4  Semi-bebouwd
+ 5  Recreatie
+ 2  Water
